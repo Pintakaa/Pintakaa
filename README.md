@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Pintakaa/Pintakaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,13 +23,4 @@ Here are some ideas to get you started:
 
 
 
-## 🛠️ Languages and Tools
 
-<br>
-
-<p align="center">
-  <img src=file:///C:/Users/javip/Desktop/u2wit3yqwpqh1.gif />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
-</p>
-
-<hr>
