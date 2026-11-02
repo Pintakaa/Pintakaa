@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hola!+👋;+Soy+Javier+Pinto!;" />
 </h1>
 
-<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg](https://images.steamusercontent.com/ugc/2033972322780733449/48E7DF1A860D4C88BA0673A90518A0620A8AA28C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)"  width="300" />
+<img src= "https://images.steamusercontent.com/ugc/2033972322780733449/48E7DF1A860D4C88BA0673A90518A0620A8AA28C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="300" />
 
 ### Soy estudiante de programación de desarrollo web.
 
