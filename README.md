@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hola!+👋;+Soy+Javier+Pinto!;" />
 </h1>
 
-### Soy estudiante de programación de desarrollo web en el IES Playamar
+### Soy estudiante de programación de desarrollo web.
 
 
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
+  <img src=file:///C:/Users/javip/Desktop/u2wit3yqwpqh1.gif />
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
 </p>
 
